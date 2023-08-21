@@ -1,0 +1,44 @@
+* {
+    color: #666666;
+}
+
+body {
+    background-color: #5B9EED;
+}
+
+.container {
+    max-width: 450px;
+    margin: 30px auto;
+    background-color: white;
+}
+
+.item-container {
+    display: flex;
+    border-bottom: 1px solid grey;
+}
+
+.h4 {
+    font-size: 18px;
+    margin-top: 15px;
+}
+
+p {
+    color: #AAAAAA;
+    line-height: 0.5px;
+}
+
+.image-container {
+    margin-right: 10px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+
+ul {
+    background-color: white;
+    list-style-type: none;
+    padding-inline-start: 10px;
+}
+
+img {
+    border-radius: 50%;
+}
